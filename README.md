@@ -2,6 +2,8 @@
 
 Software Verfication and Validation Lab task
 
+Checkout the folders Requirement, Models, Verification
+
 Autonomous Delivery Robot
 
 A software autonomous delivery robot is used to deliver packages from a warehouse to different destinations.
